@@ -1,0 +1,4 @@
+com\entsa\rentmanager\VehicleTest.class
+epf\AppTest.class
+com\entsa\rentmanager\UsersTest.class
+com\epf\rentmanager\service\ClientServiceTest$UserServiceTest.class
