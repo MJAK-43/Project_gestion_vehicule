@@ -72,6 +72,8 @@ réservations associées
 - Test sur le nombre de place doitêtre compris entre 2 et 9 (UserTest)
 - Test sur un client n'ayant pas plus de 18ans ne peut pas être créé (VehicleTest)
 - Test sur le servive ClientService
+- Test sur le servive VehicleService
+- Test sur le servive ReservationService
 
 #-----------PROBLEME RENCONTRE------------#
 ---
